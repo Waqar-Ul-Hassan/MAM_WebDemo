@@ -11,7 +11,7 @@ const Background = () => {
             text={"Hello!\nMy Name is\nWaqar Ul-Hassan"}
             delay={110}
             infinite
-          />{" "}
+          />{" "} // meow
         </pre>
       </h1>
     </div>
