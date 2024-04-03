@@ -8,7 +8,7 @@ const Home = () => {
         justifyContent: 'center', 
         alignItems: 'center', 
         height: '90vh'}}>
-      <h1>Home</h1>
+      <h1>Welcome to Muslim Association of Milton | MAM</h1>
     </div>
   )
 }
