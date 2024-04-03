@@ -4,7 +4,7 @@ import "./Navbar.css";
 
 import About from "./Pages/About";
 import Projects from "./Pages/Projects";
-import Experiences from "./Pages/Experiences";
+import Experiences from "./Pages/Events";
 import Background from "./Background";
 import CustomCursor from "../CustomCursor";
 
